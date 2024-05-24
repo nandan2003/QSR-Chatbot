@@ -2,7 +2,7 @@
 
 ### How the QSR Chatbot Works
 
-#### Conversation Flow
+#### Conversation Flow in main.py
 
 1. **Greeting and Menu Inquiry**:
    - **User Input**: The user can start by asking for the menu or a specific item.
